@@ -1,0 +1,8 @@
+2021-04-19T05:45:18-0500: == JOB START  NAME=mpi_test QUEUE=iclmsc HOST=hnod7-4-4 DATE=Mon Apr 19 05:45:18 CDT 2021 JOBID=52422446 ARRAY_JOBID= TASK= DEPENDENCIES= ==
+2021-04-19T05:45:20-0500: Starting MPI example job
+2021-04-19T05:45:21-0500: Using these nodes:
+2021-04-19T05:45:21-0500: hnod7-4-4,hnod7-5-17,hnod7-14-14,hnod7-15-3,hnod7-17-51,hnod7-23-25,hnod8-2-52,hnod8-4-39
+2021-04-19T05:45:32-0500: The total number of processor is: 8.
+2021-04-19T05:45:32-0500: Divide 8 into 2 by 4 grid
+2021-04-19T05:45:55-0500: Total time consumption: 11.76
+2021-04-19T05:45:56-0500: == JOB END  STATUS=0 HOST=hnod7-4-4 DATE=Mon Apr 19 05:45:56 CDT 2021 RUNTIME=39 ==
